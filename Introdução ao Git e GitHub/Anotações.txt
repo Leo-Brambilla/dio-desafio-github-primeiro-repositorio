@@ -1,0 +1,24 @@
+# Comandos importantes Git
+
+- mkdir nomeDoArquivo - Criar pasta pelo terminal
+
+- git init - cria o repositório
+
+- ls - mostrar a pasta
+
+- ls -a - mostrar pasta oculta
+
+- git status - mostrar as motificações
+
+- cd ./caminhoDoarquivo - entrar na pasta desejada
+
+  ## Configuração inicial
+
+  - git config --global user.email "email@entreaspas.com.br"
+  - git config --global user.name nomeSemAspas
+
+  ## Links uteis
+
+  - https://www.markdownguide.org/basic-syntax/
+  - https://git-scm.com/download/win
+  - https://typora.io/ - editor de texto MD
