@@ -12,6 +12,12 @@
 
 - cd ./caminhoDoarquivo - entrar na pasta desejada
 
+- git add . - adiciona o controle de versão local
+
+- git commit -m "descrição da alteração" - cria o commit local
+
+- git push origin main - envia os commits para a nuvem (GitHub)
+
   ## Configuração inicial
 
   - git config --global user.email "email@entreaspas.com.br"
